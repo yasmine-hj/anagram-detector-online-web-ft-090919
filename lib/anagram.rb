@@ -9,7 +9,7 @@ def initialize(name)
 end
 
 def match(arr)
-  arr.keep_if {|str| binding.pry}
+  arr.keep_if {|str| }
 end
   
 end
